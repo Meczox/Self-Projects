@@ -1,0 +1,160 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+.intro{
+    background-color: rgb(200, 244, 200, 0.5);
+    color: #45347e;
+    font-size: larger;
+    font-weight: 800;
+    border: 1px dotted #000;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+}
+.header img {
+    float: left;
+    width: 80px;
+    height: auto;
+    
+  }
+  
+.header h1 {
+    position: relative;
+    top: 18px;
+    left: -50px;
+    font-family:cursive;
+    text-align: center;
+}
+.Links{
+    text-align: center;
+    align-items: center;
+    
+}
+h2{
+    font-family:cursive;
+}
+li a{
+    color: #486390;
+    font-size: larger;
+    padding-bottom: 10%;
+    
+}
+.Info{
+    background-color: rgb(200, 244, 200, 0.5);
+    color: #4a1d5a;
+    font-size: larger;
+    font-weight: 800;   
+    border: 1px dotted #000;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 30px;
+    box-sizing: border-box;
+    text-align: center;
+}
+ul{
+    display:table;
+    width:95%
+}
+li{
+    display:table-cell;
+}
+a:hover{
+    color:#4a1d5a
+}
+.Fact{
+    background-color: rgb(74, 29, 90, 0.5);
+    color: #c8f4c8;
+    font-size: larger;
+    font-weight: 800;
+    border: 1px dotted #000;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+}
+.Harmony{
+    background-color: rgb(200, 244, 200, 0.5);
+    color: #486390;
+    font-size: larger;
+    font-weight: 800;
+    border: 1px dotted #000;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 50px;
+    text-align: center;
+
+}
+#K-drama{
+    background-color: rgb(74, 29, 90, 0.5);
+    color: #c8f4c8;
+    font-size: larger;
+    font-weight: 800;
+    border: 1px dotted #000;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+}
+#C-drama{
+    background-color: rgb(200, 244, 200, 0.5);
+    color: #486390;
+    font-size: larger;
+    font-weight: 800;
+    border: 1px dotted #000;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+}
+#Reality{
+    background-color: rgb(74, 29, 90, 0.5);
+    color: #c8f4c8;
+    font-size: larger;
+    font-weight: 800;
+    border: 1px dotted #000;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+}
+#Games{
+    background-color: rgb(200, 244, 200, 0.5);
+    color: #45347e;
+    font-size: larger;
+    font-weight: 800;
+    border: 1px dotted #000;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+}
+.button{
+    align-items:center;
+    background: #5E5DF0;
+    border-radius: 999px;
+    box-shadow: #5E5DF0 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: fit-content;
+    word-break: break-word;
+    border: 0;
+
+
+}
+.button:hover{
+    background-color: #4A49C4;
+    color: #FFFFFF;
+}
